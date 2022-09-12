@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá! Me chamo João Paulo 😁
 
-<!--
-**JoaoPauloFialho/JoaoPauloFialho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contatos 💻
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/joão-paulo-carneiro-fialho-a7aa6a243/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j_paulo_fialho/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![João Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoPauloFialho&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloFialho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## TECNOLOGIAS QUE MAIS USO NO DIA A DIA
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="python" scr="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="C" scr="	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</div>
