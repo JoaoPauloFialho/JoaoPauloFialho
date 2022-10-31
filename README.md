@@ -17,7 +17,7 @@
 </div>
 
 
-## FERRAMENTAS 💻
+## FERRAMENTAS E TECNOLOGIAS 💻
 
 <div style="display: inline_block">
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
