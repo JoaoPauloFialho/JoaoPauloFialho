@@ -43,5 +43,6 @@ Me chamo João Paulo e atualmente estou no 3° período do curso bacharelado em 
 <h2 align="center">
   GitHub Commits
 </h2>
+
 ![Snake animation](https://github.com/JoaoPauloFialho/JoaoPauloFialho/blob/output/github-contribution-grid-snake.svg)
 
