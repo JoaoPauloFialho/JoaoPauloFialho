@@ -28,4 +28,20 @@ Me chamo João Paulo e atualmente estou no 3° período do curso bacharelado em 
 <hr>
 </div>
 
+<div align="center">
+  <h2 align="center">
+    GitHub Status
+  </h2>
+  <table>
+  <tr>
+    <td valign="top"><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    <td valign="top"><img height="200px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+  </tr>
+</table>
+</div>
+
+<h2 align="center">
+  GitHub Commits
+</h2>
 ![Snake animation](https://github.com/JoaoPauloFialho/JoaoPauloFialho/blob/output/github-contribution-grid-snake.svg)
+
