@@ -34,8 +34,8 @@ Me chamo João Paulo tenho 19 anos e atualmente estou no 3° período do curso b
 <div align="center">
   <table>
   <tr>
-    <td valign="top"><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPauloFialho&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-    <td valign="top"><img height="200px" src="https://github-readme-stats.vercel.app/api?username=JoaoPauloFialho&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    <td> <img heigth=200px align=center src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JoaoPauloFialho&theme=react&line_height=40&hide=css"/> </td>
+    <td><img align=center height=285px src="https://github-readme-stats-sigma-five.vercel.app/api?username=JoaoPauloFialho&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
   </tr>
 </table>
 </div>
