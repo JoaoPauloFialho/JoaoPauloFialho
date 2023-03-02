@@ -2,7 +2,6 @@
   <img alt="Hello" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/Hi.gif" width="29px"> 
     Olá mundo !!!
 </h2>
-<img src="https://github.com/JoaoPauloFialho/imagens/blob/main/guts.png" alt="guts" width="390px" align="right"></a></p>
 <hr>
 <div align=center>
 <p class="has-line-data" data-line-start="9" data-line-end="11"><strong>Sobre Mim</strong> 😄<br><br>
