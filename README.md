@@ -6,7 +6,7 @@
 <hr>
 <div align=center>
 <p class="has-line-data" data-line-start="9" data-line-end="11"><strong>Sobre Mim</strong> 😄<br><br>
-Me chamo João Paulo tenho 20 anos e atualmente estou no 4° período do curso bacharelado em Engenharia da Computação pelo Instituto Federal da Paraíba - IFPB, estou participando como desenvolvedor full-stack do projeto GoSyn4Tax, da Synchro em parceria com o IFPB . Sou uma pessoa proativa, curiosa, amigável e altruista, apaixonado em tecnologia e em resolução de problemas. Sigo no caminho para me tornar um programador full-stack.</p>
+Me chamo João Paulo tenho 21 anos e atualmente estou no 5° período do curso bacharelado em Engenharia da Computação pelo Instituto Federal da Paraíba - IFPB, estou participando como desenvolvedor full-stack do projeto GoSyn4Tax, da Synchro em parceria com o IFPB . Sou uma pessoa proativa, curiosa, amigável e altruista, apaixonado em tecnologia e em resolução de problemas. Sigo no caminho para me tornar um programador full-stack.</p>
 <hr>
 <p class="has-line-data" data-line-start="14" data-line-end="16"><strong>Ferramentas e Tecnologias</strong><br>
   <br>
