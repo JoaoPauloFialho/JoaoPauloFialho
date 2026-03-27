@@ -21,10 +21,6 @@ Me chamo João Paulo tenho 21 anos e atualmente estou no 5° período do curso b
   <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <hr>
 </div>
-
-  <h2 align="center">
-    GitHub Status
-  </h2>
 <div align="center">
   <table>
   <tr>
@@ -33,12 +29,6 @@ Me chamo João Paulo tenho 21 anos e atualmente estou no 5° período do curso b
   </tr>
 </table>
 </div>
-
-<h2 align="center">
-  GitHub Commits
-</h2>
-
-![Snake animation](https://github.com/JoaoPauloFialho/JoaoPauloFialho/blob/output/github-contribution-grid-snake.svg)
 
   <h2 align="center">
     Contatos
